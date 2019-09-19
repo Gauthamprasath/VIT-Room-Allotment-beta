@@ -82,16 +82,22 @@ body.allotment-body{
 .fin-btn{
     background-color:#28B463;
     border-color: #58D68D;
-    width: 200px;
 }
 
 .fin-btn:hover{
     background-color: #239B56;
 }
 
+.notice{
+    width: 100%;
+    text-align: center;
+    color: #EC7063;
+}
+
 @media screen and (max-width: 700px){
     .nav-logo{
         width: 100%;
     }
+
 }
 
